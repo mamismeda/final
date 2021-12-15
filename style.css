@@ -1,0 +1,25 @@
+*{
+    box-sizing: border-box;
+}
+a{
+    text-decoration: none;
+}
+.gray{
+    background-color: #262829;
+}
+.f-sect p{
+    color: #fff;
+    padding-top: 14px;
+    padding-bottom: 14px;
+    margin-bottom: 0;
+    margin-left: 28px;
+    font-size: 12px;
+    font-weight: 400;
+}
+.line{
+    border-right: 2px solid #505253;
+    padding-right: 28px;
+}
+.line span{
+    color:#505253;
+}
