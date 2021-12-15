@@ -4,6 +4,12 @@
 a{
     text-decoration: none;
 }
+
+@media (min-width: 1200px){
+.container, .container-lg, .container-md, .container-sm, .container-xl {
+    max-width: 1155px;
+}
+}
 .gray{
     background-color: #262829;
     position: absolute;
@@ -55,4 +61,22 @@ a{
     background-repeat: no-repeat;
     background-size: cover;
     width: 100%;
+}
+.ondiv{
+    position:absolute;
+    bottom: 0;
+    width: 458px;
+}
+.first-col{
+    background-color:#ffac56;
+}
+.first-col p{
+    font-size: 14px;
+    color: #fff;
+    margin-top: 35px;
+}
+.first-col h3{
+    color: #fff;
+    font-weight: 100;
+    margin-bottom: 35px;
 }
