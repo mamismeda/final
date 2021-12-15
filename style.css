@@ -14,7 +14,6 @@ a{
     margin-bottom: 0;
     margin-left: 28px;
     font-size: 12px;
-    font-weight: 400;
 }
 .line{
     border-right: 2px solid #505253;
@@ -29,7 +28,6 @@ a{
 .burger{
     margin-left: 30px;
     font-size: 14px;
-    font-weight: 400;
     color: black;
 }
 .burger:hover{
