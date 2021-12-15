@@ -6,11 +6,14 @@ a{
 }
 .gray{
     background-color: #262829;
+    position: absolute;
+    width: 100%;
+    z-index: 2;
 }
 .f-sect p{
     color: #fff;
-    padding-top: 14px;
-    padding-bottom: 14px;
+    padding-top: 11px;
+    padding-bottom: 11px;
     margin-bottom: 0;
     margin-left: 28px;
     font-size: 12px;
@@ -25,6 +28,16 @@ a{
 .fluid-pad{
     padding: 0;
 }
+.first-nav{
+    position: absolute;
+    background-color: #fff;
+    width: 100%;
+    top:35px;
+    z-index: 1;
+}
+.switcher{
+    width: 35px;
+}
 .burger{
     margin-left: 30px;
     font-size: 14px;
@@ -32,4 +45,14 @@ a{
 }
 .burger:hover{
     color: #ffac55;
+}
+.carousel{
+    height: 840px;
+}
+.carousel-item{
+    height: 840px;
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
 }
