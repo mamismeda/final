@@ -81,8 +81,28 @@ a{
     margin-bottom: 35px;
 }
 .second-col{
-    background-color:#03b6e7;;
+    background-color:#03b6e7;
+    padding: 35px 25px 25px 35px;
+    border: 1px solid #00a6d3;
+    transition: all 0.5s linear;
+}
+.second-col:hover{
+  background-color: #00a6d3;
+}
+.insdiv{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
 .arrow{
-    padding-left: 62px;
+    width: 26px;
+    height: 26px;
+}
+.buty{
+    margin:20px auto ;
+    color: #fff;
+    font-size: 13px;
+    background-color: #16d428;
+    border-radius: 26px;
+    padding: 15px 40px;
 }
