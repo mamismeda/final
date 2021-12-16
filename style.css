@@ -124,7 +124,7 @@ a{
     padding: 15px 40px;
 }
 .abs-sect{
-    padding-top: 93px;
+    padding: 93px 0;
 }
 .abs-grid{
     text-align: right;
@@ -143,6 +143,7 @@ a{
     font-size: 15px;
     font-family:domine;
     color: #838b8c;
+    margin: 35px 0;
 }
 .abs-grid a{
     font-size: 13px;
@@ -151,4 +152,6 @@ a{
     background-color: #16d428;
     padding: 10px 30px;
     border-radius: 26px;
+    display:inline-block;
+    margin-top: 10px;
 }
