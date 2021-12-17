@@ -205,3 +205,53 @@ a{
 .photo-grid{
     padding: 73px 0;
 }
+.async{
+    height: 235px;
+    width: 100%;
+    padding-top: 20px;
+}
+.center-a{
+    margin-top: 45px;
+}
+.center-a a{
+    font-size: 13px;
+    font-family: monserat;
+    color: #fff;
+    background-color: #16d428;
+    padding: 10px 30px;
+    border-radius: 26px;
+    display: inline-block;
+    margin-left: auto;
+}
+.lute-a{
+    font-size: 12px;
+    font-family: monserat;
+    top: 20px;
+    left: 30px;
+    padding: 10px 30px;
+    border-radius: 26px;
+    border: 2px solid #ffac56;
+    color: #fff;
+}
+.lute-b{
+    font-size: 12px;
+    font-family: monserat;
+    top: 30px;
+    left: 30px;
+    padding: 10px 30px;
+    border-radius: 26px;
+    border: 2px solid #ffac56;
+    color: #fff;
+}
+.text-inside{
+    top: 25px;
+    color: #fff;
+    font-family: monserat;
+}
+.text-inside h4{
+    font-size: 18px;
+    font-weight: bold;
+}
+.text-inside p{
+    font-size: 15px;
+}
