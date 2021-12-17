@@ -208,7 +208,7 @@ a{
 .async{
     height: 235px;
     width: 100%;
-    padding-top: 20px;
+    padding-top: 25px;
 }
 .center-a{
     margin-top: 45px;
@@ -244,14 +244,37 @@ a{
     color: #fff;
 }
 .text-inside{
-    top: 25px;
+    top: 0;
     color: #fff;
+    height: 100%;
     font-family: monserat;
+    transition: all 0.5s linear;
+}
+.text-inside:hover{
+    background-color: #ffac56;
 }
 .text-inside h4{
     font-size: 18px;
     font-weight: bold;
+    padding-top: 30px;
 }
 .text-inside p{
     font-size: 15px;
 }
+.plus-icon{
+    bottom: 0;
+    width: 0; 
+	height: 0; 
+	border-top: 50px solid transparent;
+	border-bottom: 50px solid #03b6e7;
+	border-right: 50px solid transparent;
+}
+.orangy{
+    bottom: 0;
+    width: 0; 
+	height: 0; 
+	border-top: 50px solid transparent;
+	border-bottom: 50px solid #f6a149;
+	border-right: 50px solid transparent;
+}
+
