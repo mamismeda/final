@@ -278,11 +278,13 @@ a{
 	border-right: 50px solid transparent;
 }
 .top-carousel{
-    height: 520px;
+    background-color: #03b6e7;
+    height: 400px;
     padding: 73px 0;
 }
 .ind-but{
-    margin-right: 13%;
+    margin:0;
+    padding: 50px 0;
 }
 #burt{
     width: 10px;
@@ -294,12 +296,37 @@ a{
 .on-carousel{
     color: #fff;
 }
+.on-carousel h3{
+    font-family: monserat;
+}
 .happy{
     color: #a6ecff;
+    font-family: domine;
 }
 .font-paragraph{
     line-height: 28px;
 }
 .slide-pick{
     height: fit-content;
+}
+.img-diving img{
+    border-radius: 50%;
+}
+.text-diving{
+    margin-top: 15px;
+    margin-left: 30px;
+}
+.text-diving p{
+    font-size: 14px;
+    color: #fff;
+    font-family: monserat;
+}
+.text-diving span{
+    font-size: 15px;
+    font-family: domine;
+    color: #ddf8ff;
+}
+.aligny{
+    text-align: right;
+    margin: 20px 0;
 }
