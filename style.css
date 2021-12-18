@@ -386,3 +386,22 @@ a{
 .contact-sect{
     padding: 73px 0;
 }
+.paddy{
+    padding: 25px 40px;
+    justify-content: space-between;
+    border: 1px solid #e1eaec;
+}
+.texty-div h6{
+    font-size: 18px;
+    color: #343a3b;
+    font-weight: bold;
+    font-family: monserat;
+}
+.texty-div p{
+    font-size: 18px;
+    color: #343a3b;
+    font-family: domine;
+}
+#wrongy{
+    padding: 25px 55px;
+}
