@@ -338,7 +338,7 @@ a{
     height: 60px;
 }
 .double-grid{
-    padding: 73px 0;
+    background-color: #e7eff1;
 }
 .href-div{
     padding-top: 30px;
@@ -359,4 +359,26 @@ a{
     border: 2px solid #989fa0;
     color: #989fa0;
     margin-left: 10px;
+}
+.documentation{
+    margin-top: 50px;
+}
+.documentation h6{
+    font-size: 15px;
+    font-family: domine;
+    color: #343a3b;
+}
+.documentation span{
+    color: #16d428;
+}
+.documentation h3{
+    font-size: 18px;
+    font-family: monserat;
+    color: #343a3b;
+    font-weight: bold;
+}
+.documentation p{
+    font-size: 15px;
+    font-family: domine;
+    color: #838b8c;
 }
