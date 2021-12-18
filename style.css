@@ -293,6 +293,9 @@ a{
     background-color: transparent;
     border: 2px solid #fff;
 }
+#burt:hover{
+    border:2px solid  #16d428;
+}
 .on-carousel{
     color: #fff;
 }
