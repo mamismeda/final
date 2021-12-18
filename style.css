@@ -359,12 +359,13 @@ a{
     border: 2px solid #989fa0;
     color: #989fa0;
     margin-left: 10px;
+    margin-right: 20px;
 }
 .documentation{
-    margin-top: 50px;
+    margin-top: 25px;
 }
 .documentation h6{
-    font-size: 15px;
+    font-size: 10px;
     font-family: domine;
     color: #343a3b;
 }
@@ -372,13 +373,16 @@ a{
     color: #16d428;
 }
 .documentation h3{
-    font-size: 18px;
+    font-size: 13px;
     font-family: monserat;
     color: #343a3b;
     font-weight: bold;
 }
 .documentation p{
-    font-size: 15px;
+    font-size: 12px;
     font-family: domine;
     color: #838b8c;
+}
+.contact-sect{
+    padding: 73px 0;
 }
