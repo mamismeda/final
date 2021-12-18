@@ -277,4 +277,26 @@ a{
 	border-bottom: 50px solid #f6a149;
 	border-right: 50px solid transparent;
 }
-
+#carouselExampleIndicators{
+    height: 520px;
+    padding: 73px 0;
+}
+.carousel-indicators{
+    margin-right: 13%;
+}
+#burt{
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background-color: transparent;
+    border: 2px solid #fff;
+}
+.on-carousel{
+    color: #fff;
+}
+.happy{
+    color: #a6ecff;
+}
+.font-paragraph{
+    line-height: 28px;
+}
