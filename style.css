@@ -337,3 +337,26 @@ a{
     width:60px;
     height: 60px;
 }
+.double-grid{
+    padding: 73px 0;
+}
+.href-div{
+    padding-top: 30px;
+}
+.href-div a{
+    font-size: 12px;
+    font-family: monserat;
+    border: 2px solid #ffac56;
+    padding: 10px 30px;
+    border-radius: 26px;
+    color: #ffac56;
+}
+#tech{
+    font-size: 12px;
+    font-family: monserat;
+    padding: 10px 30px;
+    border-radius: 26px;
+    border: 2px solid #989fa0;
+    color: #989fa0;
+    margin-left: 10px;
+}
