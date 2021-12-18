@@ -277,11 +277,11 @@ a{
 	border-bottom: 50px solid #f6a149;
 	border-right: 50px solid transparent;
 }
-#carouselExampleIndicators{
+.top-carousel{
     height: 520px;
     padding: 73px 0;
 }
-.carousel-indicators{
+.ind-but{
     margin-right: 13%;
 }
 #burt{
@@ -299,4 +299,7 @@ a{
 }
 .font-paragraph{
     line-height: 28px;
+}
+.slide-pick{
+    height: fit-content;
 }
