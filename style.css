@@ -294,7 +294,7 @@ a{
     background-color: transparent;
     border: 2px solid #fff;
 }
-#burt:hover{
+#burt:focus{
     border:2px solid  #16d428;
 }
 .on-carousel{
