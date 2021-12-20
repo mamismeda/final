@@ -169,6 +169,11 @@ a{
     right: 0;
     transform: translateX(-40%);
 }
+@media all and (max-width:1000px){
+    .pop{
+        display:none;
+    }
+}
 
 .tree{
     background-color: #e7eff1;
@@ -274,6 +279,11 @@ a{
 	border-top: 50px solid transparent;
 	border-bottom: 50px solid #03b6e7;
 	border-right: 50px solid transparent;
+}
+@media all and (max-width:1000px){
+    .plus-icon{
+        display: none;
+    }
 }
 .orangy{
     bottom: 0;
