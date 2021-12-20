@@ -164,6 +164,24 @@ a{
     display:inline-block;
     margin-top: 10px;
 }
+
+@media all and (max-width:800px){
+  .abs-grid p{
+      margin:5px 0
+  }
+  .abs-grid {
+      text-align: left;
+      margin-bottom: 20px;
+      padding-left: 35px;
+  }
+ .abs-grid a{
+    display: block;
+    width: fit-content;
+    margin: auto;
+    margin-top: 10px;
+ }
+}
+
 .pop{
     position: absolute;
     top: 60%;
@@ -212,6 +230,14 @@ a{
     font-family: domine;
     color: #838b8c;
     margin: 25px 0 0 0;
+}
+@media all and (max-width:600px){
+   .tree-text{
+       text-align: center;
+   }
+   .grid-one{
+       text-align: center;
+   }
 }
 
 .photo-grid{
@@ -281,7 +307,7 @@ a{
 	border-bottom: 50px solid #03b6e7;
 	border-right: 50px solid transparent;
 }
-@media all and (max-width:1000px){
+@media all and (max-width:1200px){
     .plus-icon{
         display: none;
     }
@@ -294,6 +320,16 @@ a{
 	border-bottom: 50px solid #f6a149;
 	border-right: 50px solid transparent;
 }
+
+@media all and (max-width:900px){
+   .big-pic{
+       width: 100%;
+   }
+   .text-inside{
+       display: none;
+   }
+}
+
 .top-carousel{
     background-color: #03b6e7;
     height: 400px;
