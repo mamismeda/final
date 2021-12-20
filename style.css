@@ -53,6 +53,11 @@ a{
     top:35px;
     z-index: 1;
 }
+@media all and (max-width:1000px){
+    .first-nav{
+        top: 0;
+    }
+}
 .switcher{
     width: 35px;
 }
