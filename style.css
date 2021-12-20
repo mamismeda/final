@@ -55,6 +55,7 @@ a{
 }
 @media all and (max-width:1000px){
     .first-nav{
+        position: static;
         top: 0;
     }
 }
@@ -487,4 +488,7 @@ a{
     font-size: 15px;
     color: #838b8c;
     font-family: domine;
+}
+.box-sect{
+    padding: 50px 0;
 }
