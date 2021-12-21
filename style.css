@@ -436,6 +436,18 @@ a{
     font-family: domine;
     color: #838b8c;
 }
+@media all and (max-width:800px){
+    #tech{
+        display: none;
+    }
+    .documentation{
+        text-align: center;
+    }
+    .href-div a{
+        display: none;
+    }
+  
+}
 .contact-sect{
     padding: 73px 0;
 }
@@ -443,6 +455,12 @@ a{
     padding: 25px 40px;
     justify-content: space-between;
     border: 1px solid #e1eaec;
+}
+@media all and (max-width:800px){
+    .paddy{
+        margin-bottom: 10px;
+    }
+  
 }
 .texty-div h6{
     font-size: 18px;
@@ -454,6 +472,11 @@ a{
     font-size: 18px;
     color: #343a3b;
     font-family: domine;
+}
+@media all and (max-width:600px){
+    .texty-div {
+        padding-left: 15px;
+    }
 }
 #wrongy{
     padding: 25px 55px;
@@ -497,6 +520,21 @@ a{
     background-color: #16d428;
     padding: 10px 30px;
     transform: translateX(-50%);
+}
+@media all and (max-width:600px){
+    .form-div input{
+        margin-left: 20px;
+        padding: 10px 50px 10px 30px;
+    }
+    .form-div button{
+        margin-top: 20px;
+        transform:translateX(0);
+        margin-left:20px
+    }
+    .last-text{
+        padding-left: 20px;
+    }
+
 }
 .first-ul h5{
     font-size: 20px;
