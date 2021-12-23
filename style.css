@@ -566,3 +566,16 @@ a{
 .box-sect{
     padding: 50px 0;
 }
+.dark-nav{
+    background-color: #03b6e7;
+}
+.dark-abs{
+    background-color: black;
+    color: #fff;
+}
+.dark-tree{
+    background-color:#03b6e7;
+}
+.dark-par{
+    color: #fff;
+}
